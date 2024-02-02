@@ -1,0 +1,29 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  height: 100vh; /* Asegura que el contenido esté centrado verticalmente */
+  margin: 0;
+}
+
+.main {
+  text-align: center; /* Centra el contenido horizontalmente */
+}
+
+.search-bar {
+  margin-bottom: 10px; /* Espacio entre el input y los botones */
+}
+
+.search-bar input {
+  margin-right: 5px; /* Espacio entre el input y el botón */
+}
+
+button {
+  margin-bottom: 5px; /* Espacio entre los botones */
+}
+
+.cocktail {
+  margin-top: 100px; /* Agrega la unidad de medida (px) */
+}
