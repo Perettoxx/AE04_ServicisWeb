@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: localhost
--- Tiempo de generación: 02-02-2024 a las 21:01:34
+-- Tiempo de generación: 02-02-2024 a las 21:14:58
 -- Versión del servidor: 10.4.20-MariaDB
 -- Versión de PHP: 8.0.8
 
@@ -20,6 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Base de datos: `ae04`
 --
+CREATE DATABASE IF NOT EXISTS `ae04` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `ae04`;
 
 -- --------------------------------------------------------
 
